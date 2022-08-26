@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vy Le
 - 👀 I’m interested in data analystic 
-- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ng_vyle@yahoo.com
 
